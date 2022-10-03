@@ -1,2 +1,2 @@
 # Display the output
-print("New output file")
+print("New output file updated from desktop")
